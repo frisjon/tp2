@@ -11,14 +11,15 @@ Los datos que se utilizan (ademas de los [viejos](https://www.kaggle.com/benhamn
 
 Despues de bajarselos, crean un directorio 'data' y colocan los archivos ahi.
 
+(no los subo yo porque los archivos son pesados)
 
-tp2
-├── data
-│   ├── station.csv
-│   ├── status.csv
-│   ├── test.csv      <-- nuevo
-│   ├── train.csv     <-- nuevo
-│   └── weather.csv
-├── README.md
-├── testing.ipynb
-└── trabajo_practico_2.ipynb
+    tp2
+    ├── data
+    │   ├── station.csv
+    │   ├── status.csv
+    │   ├── test.csv      <-- nuevo
+    │   ├── train.csv     <-- nuevo
+    │   └── weather.csv
+    ├── README.md
+    ├── testing.ipynb
+    └── trabajo_practico_2.ipynb
