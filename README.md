@@ -1,5 +1,6 @@
 # tp2
 
+Usar de referencia: https://docs.google.com/presentation/d/1eq_Yin43a6G37NxyZTVPMwo8CSlsap27rm4-G2pfL70/edit#slide=id.g17b72be0ad_0_25 
 
 testing.ipynb tiene algunas pruebas que hice. No es importante
 
